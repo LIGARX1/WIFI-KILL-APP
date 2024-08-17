@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyApp</string>
+    <string name="btn_connect_wifi">Connect to Wi-Fi</string>
+</resources>
